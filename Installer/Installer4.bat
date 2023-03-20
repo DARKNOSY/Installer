@@ -21,12 +21,12 @@ if '%action%'=='12' goto Quit
 
 :AD
 @echo off & cls
-start %cd%/Softwares/AnyDesk.exe
+start %cd%\Softwares\AnyDesk.exe
 goto menu
 
 :Py
 @echo off & cls
-start %cd%/Softwares/python-3.9.5-amd64.exe
+start %cd%\Softwares\python-3.9.5-amd64.exe
 goto menu
 
 :RYD
@@ -51,12 +51,12 @@ goto menu
 
 :FF
 @echo off & cls
-start %cd%/Softwares/Firefox Installer.exe
+start %cd%\Softwares\Firefox Installer.exe
 goto menu
 
 :Python
 @echo off & cls
-start %cd%/Softwares/python-3.11.1-amd64.exe
+start %cd%\Softwares\python-3.11.1-amd64.exe
 goto menu
 
 :Credits
@@ -71,7 +71,7 @@ exit
 
 :FDM
 @echo off & cls
-start %cd%/Softwares/fdm_x64_setup.exe
+start %cd%\Softwares\fdm_x64_setup.exe
 goto menu
 
 :Quit

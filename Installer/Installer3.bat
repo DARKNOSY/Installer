@@ -19,32 +19,32 @@ if '%action%'=='10' goto Quit
 
 :MB
 @echo off & cls
-start %cd%/Softwares/microsoft-bing-desktop-1-3-167-0-en-fr-de-jp-win.exe
+start %cd%\Softwares\microsoft-bing-desktop-1-3-167-0-en-fr-de-jp-win.exe
 goto menu
 
 :EG
 @echo off & cls
-start %cd%/Softwares/EpicInstaller-14.6.2.msi
+start %cd%\Softwares\EpicInstaller-14.6.2.msi
 goto menu
 
 :WRAR
 @echo off & cls
-start %cd%/Softwares/winrar-x64-621.exe
+start %cd%\Softwares\winrar-x64-621.exe
 goto menu
 
 :EA
 @echo off & cls
-start %cd%/Softwares/EAappInstaller.exe
+start %cd%\Softwares\EAappInstaller.exe
 goto menu
 
 :TV
 @echo off & cls
-start %cd%/Softwares/TeamViewer_Setup_x64.exe
+start %cd%\Softwares\TeamViewer_Setup_x64.exe
 goto menu
 
 :Valorant
 @echo off & cls
-start %cd%/Softwares/Install VALORANT.exe
+start %cd%\Softwares\Install VALORANT.exe
 goto menu
 
 :Roblox

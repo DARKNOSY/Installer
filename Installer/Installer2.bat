@@ -19,37 +19,37 @@ if '%action%'=='10' goto Quit
 
 :SB
 @echo off & cls
-start %cd%/Softwares/Sandboxie-Classic-x64-v5.57.7.exe
+start %cd%\Softwares\Sandboxie-Classic-x64-v5.57.7.exe
 goto menu
 
 :Steam
 @echo off & cls
-start %cd%/Softwares/SteamSetup.exe
+start %cd%\Softwares\SteamSetup.exe
 goto menu
 
 :VB
 @echo off & cls
-start %cd%/Softwares/VirtualBox-7.0.4-154605-Win.exe
+start %cd%\Softwares\VirtualBox-7.0.4-154605-Win.exe
 goto menu
 
 :VS
 @echo off & cls
-start %cd%/Softwares/VisualStudioSetup.exe
+start %cd%\Softwares\VisualStudioSetup.exe
 goto menu
 
 :VSC
 @echo off & cls
-start %cd%/Softwares/VSCodeUserSetup-x64-1.74.3.exe
+start %cd%\Softwares\VSCodeUserSetup-x64-1.74.3.exe
 goto menu
 
 :Opera
 @echo off & cls
-start %cd%/Softwares/OperaSetup.exe
+start %cd%\Softwares\OperaSetup.exe
 goto menu
 
 :OGX
 @echo off & cls
-start %cd%/Softwares/OperaGXSetup.exe
+start %cd%\Softwares\OperaGXSetup.exe
 goto menu
 
 :Quit
