@@ -1,0 +1,16 @@
+@DARKNOSY
+
+ _         ____  _____  ____  _     _    
+/ \/ \  /|/ ___\/__ __\/  _ \/ \   / \   
+| || |\ |||    \  / \  | / \|| |   | |         [1] FireFox
+| || | \||\___ |  | |  | |-||| |_/\| |_/\               [2] Python 3.11.1
+\_/\_/  \|\____/  \_/  \_/ \|\____/\____/      [3] Free Download Manager
+                                         [4] Voice Mod
+ ____                             [5] Voice Ai
+/ ___\                       [6] Insomnia
+|    \                    [7] Credits
+\___ |                [8] Go Back                                                                                               
+\____/             [9] Next Page                  
+                [10] Exit
+@DARKNOSY
+
