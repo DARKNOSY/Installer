@@ -47,7 +47,7 @@ explorer "https://github.com/DARKNOSY"
 goto menu
 
 :PP
-start Installer3.bat
+start Installer5.bat
 exit
 
 :Quit
