@@ -14,8 +14,8 @@ if '%action%'=='4' goto VM
 if '%action%'=='5' goto VA
 if '%action%'=='6' goto I
 if '%action%'=='7' goto Credits
-if '%action%'=='8' goto NP
-if '%action%'=='9' goto PP
+if '%action%'=='8' goto PP
+if '%action%'=='9' goto NP
 if '%action%'=='10' goto Quit
 
 :VM
