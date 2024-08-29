@@ -23,8 +23,8 @@
 Installer With Gui and a Lot of Options to Use After Factory Reseting your Computer.
 
 ### [+] Installation
-V1 > `https://github.com/DARKNOSY/Installer/releases/download/V1/Installer.zip`
-V2 > `https://github.com/DARKNOSY/Installer/blob/main/v2/installerv2.cmd`
+[V1](https://github.com/DARKNOSY/Installer/releases/download/V1/Installer.zip)
+[V2](https://github.com/DARKNOSY/Installer/blob/main/v2/installerv2.cmd)
 
 ### [+] Usage
  - `Launch Installer.bat`
